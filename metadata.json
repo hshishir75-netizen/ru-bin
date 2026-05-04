@@ -1,0 +1,9 @@
+{
+  "name": "RU Banking & Insurance Hub",
+  "description": "Student Resource Portal for the Department of Banking & Insurance, University of Rajshahi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
