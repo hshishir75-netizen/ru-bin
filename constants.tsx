@@ -25,13 +25,6 @@ export const RESOURCES: ResourceButton[] = [
     icon: "fa-database",
     link: "https://ln5.sync.com/dl/efdafdb10#h6h6qnd4-uede52sx-nysksr6q-mgjy2jyy",
     color: "bg-amber-600"
-  },
-  {
-    label: "Server 4",
-    description: "",
-    icon: "fa-server",
-    link: "https://www.4shared.com/folder/g_cXEdZb/Banking__Insurance.html",
-    color: "bg-rose-600"
   }
 ];
 

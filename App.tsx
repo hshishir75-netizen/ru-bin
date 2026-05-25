@@ -266,7 +266,7 @@ const App: React.FC = () => {
               <p className="text-sm mt-1 opacity-80">(Click any server icon below) <span className="text-blue-700 font-bold">(No login Require)</span></p>
             </div>
           </div>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-4xl mx-auto">
             {RESOURCES.map((res, idx) => (
               <a 
                 key={idx} 
